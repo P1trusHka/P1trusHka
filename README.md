@@ -1,22 +1,22 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/P1trusHka" target="_blank">Alexander</a> 
+# <h1 align="center">Hi there, I'm <a href="https://github.com/P1trusHka" target="_blank">Alexander</a> 
 
 ```I am kind of young dev. This git account was made to shoe my progress on my long way. ```
 
-#  Core 
+##  Core 
 - Java
 - Python
 - С++
 
-#  Objectives for the year
+##  Objectives for the year
  - Maske a progress in MO
  - Taske part in diffrent competitions
  - Write an app
  - Find work
 
-#  Some Stats
+##  Some Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=P1trusHka)](https://github.com/ryo-ma/github-profile-trophy)
 
-#  Random Badges
+##  Random Badges
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
