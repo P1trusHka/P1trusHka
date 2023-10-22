@@ -1,6 +1,7 @@
- <h1 align="center">Hello, Commiter!</h1>
+ <h1 align="center">Hello, Commiter!</h1> 
 
-```I am kind of young dev. This git account was made to shoe my progress on my long way. ```
+ 
+```I'm kind of a young developer. This git account was created to show my progress along my long journey. Here I will post assignments and projects that I am working on or have worked on. ```
 
 ## 💻・Core 
 - Java
@@ -11,7 +12,6 @@
  - Learn AI/ML
  - Taske part in diffrent competitions
  - Write an app
- - Find work
 
 ##  📊・Some Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=P1trusHka)](https://github.com/ryo-ma/github-profile-trophy)
