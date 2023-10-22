@@ -15,3 +15,4 @@
 
 ##  📊・Some Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=P1trusHka)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://komarev.com/ghpvc/?username=your-github-P1trusHka)
