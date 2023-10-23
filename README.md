@@ -10,8 +10,8 @@
 
 ## 🎯・Objectives for the year
  - Learn AI/ML
- - Taske part in diffrent competitions
- - Write an app
+ - Take part in diffrent competitions
+ - Stay alive
 
 ##  📊・Some Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=P1trusHka)](https://github.com/ryo-ma/github-profile-trophy)
