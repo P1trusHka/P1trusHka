@@ -7,6 +7,6 @@
 
 
  - 🌱 I'm currently learning **C++**, **Java**, **machine learning**, **DevOps**
- - 📰 I regulary post nothing.
- - 🤝🏼 How to reach me? No way.
- - 📃 Know about my expiriences? Not now.
+ - 📰 I regulary post ***nothing***.
+ - 🤝🏼 How to reach me? ***No way***.
+ - 📃 Know about my expiriences? ***Not now***.
