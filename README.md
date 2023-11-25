@@ -1,6 +1,6 @@
-![Без названия](https://github.com/P1trusHka/P1trusHka/assets/132215401/3d351898-d7f6-4adc-b92c-1253808b194b)
+![Без названия](https://github.com/P1trusHka/P1trusHka/blob/main/header.png)
 
-![](https://komarev.com/ghpvc/?username=P1trusHka&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=P1trusHka&color=orange)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=P1trusHka)](https://github.com/ryo-ma/github-profile-trophy)
