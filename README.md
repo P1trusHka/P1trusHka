@@ -17,4 +17,7 @@ I have experience in:
 - DevOps ( 1 year )
 - Java ( 1 year)
 
+Contact me: [telegram](https://t.me/directorpg) [mail](petrushenko184@mail.ru)
+
+
 I am available for hire. Contact me if you have an interesting opportunity :)
