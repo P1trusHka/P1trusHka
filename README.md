@@ -13,8 +13,8 @@ I am interested in:
 I have experience in:
 
 - Python ( 1 year )
-
-- C++ (2 years)
-- DevOps (1 year)
+- C++ (2 years )
+- DevOps ( 1 year )
+- Java ( 1 year)
 
 I am available for hire. Contact me if you have an interesting opportunity :)
