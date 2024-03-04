@@ -4,10 +4,8 @@ My name is Alexander and I am a RTU MIREA student.
 I am interested in:
 
 - CTF
-- Software development
 - Computer science
 - Microelectronics
-- Video games
 
 
 I have experience in:
