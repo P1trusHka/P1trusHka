@@ -15,7 +15,6 @@ I've worked with:
 - DevOps ( 1 year )
 - Java ( 1 year)
 
-Contact me: [telegram](https://t.me/directorpg); [mail](petrushenko184@mail.ru)
-
+Contact me: [Telegram](https://t.me/directorpg);  <a href="mailto:petrushenko184@mail.ru">Mail</a>
 
 I am available for hire. Contact me if you have an interesting opportunity :)
