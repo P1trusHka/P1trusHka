@@ -12,13 +12,38 @@ Contact me: [Telegram](https://t.me/directorpg)   <a href="mailto:petrushenko184
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=eceff4)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=eceff4)
 
---->
-## &#x1f4ac; Contact me
-- [Telegram](https://t.me/directorpg)  
-- <a href="mailto:petrushenko184@mail.ru">Mail</a>
+
+
 ## &#x1f4c8; GitHub Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=P1trusHka&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=P1trusHka&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=P1trusHka&theme=nord_bright)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=P1trusHka&theme=nord_bright)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=P1trusHka&theme=nord_bright)
+
+--->
+## &#x1f91d; Hello, my friend!</h1>
+My name is Alexander and I study at RTU MIREA.
+
+
+I am interested in:
+- CTF
+- Computer science
+- Microelectronics
+
+
+I've worked with:
+
+
+- Python ( 1 year )
+- C++ ( 2 years )
+- DevOps ( 1 year )
+- Java ( 1 year)
+
+
+
+## &#x1f4ac; Contact me
+- [Telegram](https://t.me/directorpg)  
+- <a href="mailto:petrushenko184@mail.ru">Mail</a>
+
+I am available for hire. Contact me if you have an interesting opportunity :)
