@@ -7,6 +7,7 @@ My name is Alexander and I study at RTU MIREA. I just started my journey in prog
 Contact me: [Telegram](https://t.me/directorpg)   <a href="mailto:petrushenko184@mail.ru">Mail</a>
 <!---- &#x270d; --->
 ## &#x1f527; Technologies & Tools
+<!-- Magic site - https://shields.io/ -->
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=linux&logoColor=white&color=eceff4)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=eceff4)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=eceff4)
