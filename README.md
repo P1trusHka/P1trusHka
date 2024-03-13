@@ -4,7 +4,6 @@
 ## &#x1f91d; Hello, my friend!</h1>
 My name is Alexander and I study at RTU MIREA. I just started my journey in programming. Below is information about my repo and activities.
 
-Contact me: [Telegram](https://t.me/directorpg)   <a href="mailto:petrushenko184@mail.ru">Mail</a>
 <!---- &#x270d; --->
 ## &#x1f527; Technologies & Tools
 <!-- Magic site - https://shields.io/ --->
