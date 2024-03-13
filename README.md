@@ -4,7 +4,7 @@
 ## &#x1f91d; Hello, my friend!</h1>
 My name is Alexander and I study at RTU MIREA. I just started my journey in programming. Below is information about my repo and activities.
 
-The founder of [this organization](https://github.com/DevComOps).
+The founder of [this organization](https://github.com/GFClub).
 <!---- &#x270d; --->
 ## &#x1f527; Technologies & Tools
 <!-- Magic site - https://shields.io/ --->
