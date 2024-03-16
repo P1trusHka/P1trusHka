@@ -43,7 +43,8 @@ I am available for hire. Contact me if you have an interesting opportunity :)
     <!-- <a href="https://twitter.com/antfu7">tweets</a> .--->
     <!--<a href="https://chat.antfu.me">discord</a> .--->
     <a href="https://t.me/directorpg">telegram</a> .
-    <a href="mailto:petrushenko184@mail.ru">mail</a>
+    <a href="mailto:petrushenko184@mail.ru">mail</a> .
+    <a href="https://github.com/GFClub">team</a>
     <!--<a href="https://github.com/sponsors/antfu">sponsor</a>--->
   </samp>
 </p>
