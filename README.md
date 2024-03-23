@@ -33,7 +33,7 @@ I am available for hire. Contact me if you have an interesting opportunity :)
 
 <p align="center">
   <samp>
-    <!--<a href="https://antfu.me">me</a> .--->
+    <a href="https://p1trushka.tilda.ws/">me</a> .
     <!--<a href="https://antfu.me/posts">blog</a> .--->
     <!--<a href="https://antfu.me/projects">projects</a> .--->
     <!--<a href="https://antfu.me/talks">talks</a> .--->
@@ -45,6 +45,6 @@ I am available for hire. Contact me if you have an interesting opportunity :)
     <a href="https://t.me/directorpg">telegram</a> .
     <a href="mailto:petrushenko184@mail.ru">mail</a> .
     <a href="https://github.com/GFClub">team</a>
-    <!--<a href="https://github.com/sponsors/antfu">sponsor</a>--->
+    <!-- <a href="https://github.com/sponsors/antfu">sponsor</a> --->
   </samp>
 </p>
